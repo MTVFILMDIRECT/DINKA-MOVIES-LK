@@ -507,6 +507,8 @@ var cast = ''
 	
   
 let yt = `
+꧁Ðł₦Kλ MØVłEŞ ŁK꧂
+
 🍟 _*${mov.title}*_
 
 🧿 Release Date: ➜ ${mov.date}
@@ -516,8 +518,8 @@ let yt = `
 🎀 Categories: ${mov.category}
 ⭐ IMDB RATIN: ${mov.imdbRate}
 🔮 IMDB VOTE: ${mov.imdbVoteCount}
-🤵‍♂️ Director: ${mov.director}
-🕵️‍♂️ Cast: ${cast}
+🤵‍♂️ Upload: Nadeen Poorna
+💥Join us - https://chat.whatsapp.com/FWyCT2g6N5PGcKGbcHe7J7
 `
 const jid = jidx || from
 await conn.sendMessage(jid ,  { image : { url : mov.images[0] || mov.image || config.LOGO } , caption : yt + `
