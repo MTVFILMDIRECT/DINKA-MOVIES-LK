@@ -20,7 +20,7 @@ const { File } = require('megajs')
 const prefix = '.'
 const { mongodb_connection_start, start_numrep_process, upload_to_mongodb, get_data_from_mongodb, storenumrepdata, getstorednumrep } = require('./lib/nonbutton')
 
-const ownerNumber = ['94711451319']
+const ownerNumber = ['94779483535']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -71,12 +71,9 @@ console.log('Plugins installed successful ✅')
 await start_numrep_process();
 console.log('Bot connected to whatsapp ✅')
 
-let up = `🚀 *_NADEEN-MD MOVIE-DL-X Connected Successfully!_* ✅ 
-
---- *😈🎉 _Welcome to NADEEN-MD MOVIE DOWNLOER BOT!_* 🎉😈 
+let up = `🚀 *_DINKA MOVIE LK Connected Successfully!_* ✅ 
 
 *🔹 PREFIX:* ${prefix}
-*🔹 OWNER:* ${ownerNumber}
 *🔹 MADE BY:* Nadeen Poorna
 _*🕺Enjoy your time with us!😊*_
 
@@ -190,25 +187,11 @@ if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //=========OWNER - REACTION ===============================  
-if(senderNumber.includes("94711451319")){
-if(isReact) return
-m.react("👨🏻‍💻")
-}
 if(senderNumber.includes("94779483535")){
 if(isReact) return
 m.react("🌜")
 }
-if(senderNumber.includes("94775383340")){
-if(isReact) return
-m.react("™")
-}
-if(senderNumber.includes("94753751559")){
-if(isReact) return
-m.react("™")
-}
-if(senderNumber.includes("94771588807")){
-if(isReact) return
-m.react("👾")
+
 }
 //=====================✓
 
