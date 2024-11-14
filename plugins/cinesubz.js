@@ -505,26 +505,20 @@ const imdbvote = mov.imdbVoteCount
 const director = mov.director
 	
 let yt = `
+꧁Ðł₦Kλ MØVłEŞ ŁK꧂
+
 🍟 _*${name}*_
-
-
 🧿 ${oce}Release Date:${oce} ➜ ${date}
-
 🌍 ${oce}Country:${oce} ➜ ${country}
-
 ⏱️ ${oce}Duration:${oce} ➜ ${runtime}
-
 🎀 ${oce}Categories:${oce} ➜ ${cat}
-
 ⭐ ${oce}IMDB:${oce} ➜ ${imdbrate}
+🤵‍♂️Upload : Nadeen Poorna
 
-🤵‍♂️ ${oce}Director:${oce} ➜ ${director}
-
-🕵️‍♂️ ${oce}Cast:${oce} ➜ ${cast}
-
+💥POWERED BY *NADEEN-MD* WA-BOT
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+💃*Join Us ➢* https://chat.whatsapp.com/FVPALKJSfJzC5Nv1p0MNyz
 
-  💃 *ғᴏʟʟᴏᴡ ᴜs ➢* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
 
 
 `
@@ -591,6 +585,8 @@ let mov = anu.result.data
 
   
 let yt = `
+꧁ĐIŇҜΔ ŦV Ş€ŘI€Ş ꧂
+
 📺 *Tv Show Name:* ${mov.title}
 ✨ *First Air Date:* ${mov.first_air_date}
 🎐 *Last Air Date:* ${mov.last_air_date}
@@ -598,10 +594,10 @@ let yt = `
 ⭐ *TMDB RATIN:* ${mov.tmdbRate}
 🔮 *TMDB COUNT:* ${mov.tmdbVoteCount}
 🎡 *Episode Count:* ${mov.episode_count}
-
+📤 *Upload:* Nadeen Poorna
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
-*🕺🏻 ғᴏʟʟᴏᴡ ᴜs:* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+*Join ᴜs:* https://chat.whatsapp.com/Et0NEYYm5gi2wdKNFSGjl8
 
 
 
