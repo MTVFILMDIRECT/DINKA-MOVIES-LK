@@ -19,7 +19,7 @@ var not_fo = 'I can\'t find anyting'
 var giveme = "Please give me movie or tv show name"
 
 
-const apilink = "https://dark-yasiya-api-new.vercel.app"
+const apilink = "https://www.dark-yasiya-api.site"
 //===============================================================================
 
 cmd({
