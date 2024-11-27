@@ -71,9 +71,12 @@ console.log('Plugins installed successful ✅')
 await start_numrep_process();
 console.log('Bot connected to whatsapp ✅')
 
-let up = `🚀 *_DINKA MOVIE LK Connected Successfully!_* ✅ 
+let up = `🚀 *_NADEEN-MD MOVIE-DL-X Connected Successfully!_* ✅ 
+
+--- *😈🎉 _Welcome to NADEEN-MD MOVIE DOWNLOER BOT!_* 🎉😈 
 
 *🔹 PREFIX:* ${prefix}
+*🔹 OWNER:* ${ownerNumber}
 *🔹 MADE BY:* Nadeen Poorna
 _*🕺Enjoy your time with us!😊*_
 
@@ -189,10 +192,17 @@ if(!isOwner && !isGroup && config.MODE === "groups") return
 //=========OWNER - REACTION ===============================  
 if(senderNumber.includes("94779483535")){
 if(isReact) return
-m.react("🌜")
+m.react("😈")
+}
+if(senderNumber.includes("94785432344")){
+if(isReact) return
+m.react("😂")
+}
+if(senderNumber.includes("94714852466")){
+if(isReact) return
+m.react("🩲")
 }
 
-}
 //=====================✓
 
 if (config.AUTO_VOICE === 'true') {    
