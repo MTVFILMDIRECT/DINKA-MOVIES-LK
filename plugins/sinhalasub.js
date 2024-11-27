@@ -24,7 +24,7 @@ const apilink = "https://www.dark-yasiya-api.site"
 
 cmd({
     pattern: "sinhalasub",
-    alias: ["mv","sin"],
+    alias: ["mv3","sin"],
     react: "🎥",
     desc: "Download movie for sinhalasub.lk",
     category: "download",
