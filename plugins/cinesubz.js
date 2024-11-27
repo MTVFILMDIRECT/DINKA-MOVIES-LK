@@ -753,7 +753,7 @@ const up_mg = await conn.sendMessage(from, { text : 'Uploading Your Request MOVI
 
 const mvdoc = await conn.sendMessage( jid , { 
 		document : { url : res.downloadUrl } , 
-		fileName: `${f_name}.` + ext  , 
+		fileName: `[ŋąɖɛɛŋ] ${f_name}.` + ext  , 
 		mimetype: res.mimetype, 
 		caption: f_name + ` (${quality})
 
@@ -788,7 +788,7 @@ const bufferdata = await getBuffer( anu.result.direct )
     
 	const mvdoc = await conn.sendMessage( jid , { 
 		document : bufferdata , 
-		fileName: `${nmf}.` + ext  , 
+		fileName: `[ŋąɖɛɛŋ] ${nmf}.` + ext  , 
 		mimetype: mime, 
 		caption: nmf + ` (${quality})
 
