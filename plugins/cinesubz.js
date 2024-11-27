@@ -21,8 +21,8 @@ var giveme = "Please give me movie or tv show name"
 var err = '❗ error'
 var oce = ''
 
-const apilink = cinesubz.apilink
-const apikey = cinesubz.apikey
+const apilink = "https://www.dark-yasiya-api.site"
+const apikey = "yasiyalk"
 //===============================================================================
 
 cmd({
