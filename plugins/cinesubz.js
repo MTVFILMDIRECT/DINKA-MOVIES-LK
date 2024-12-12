@@ -513,11 +513,11 @@ let yt = `
 ⏱️ ${oce}Duration:${oce} ➜ ${runtime}
 🎀 ${oce}Categories:${oce} ➜ ${cat}
 ⭐ ${oce}IMDB:${oce} ➜ ${imdbrate}
-🤵‍♂️Upload : Nadeen Poorna
+📤Upload : Nadeen Poorna
 
-💥POWERED BY *NADEEN-MD* WA-BOT
+💥POWERED BY *NADEEN-MD*
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-💃*Join Us ➢* https://chat.whatsapp.com/FVPALKJSfJzC5Nv1p0MNyz
+> 💃 *Join Us ➢* https://chat.whatsapp.com/FVPALKJSfJzC5Nv1p0MNyz
 
 
 
